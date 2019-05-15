@@ -22,7 +22,7 @@ body {
 }
 
 #bio p {
-  margin-bottom: none;
+  margin-bottom: 1em;
   font-family: 'Open Sans', sans-serif;
   /*font-family: Didot, serif;*/
   font-weight: 400;
