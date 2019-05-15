@@ -1,21 +1,37 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Elena Izotova</title>
   <link rel="stylesheet" href="./css/styles.css">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+  <!--<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">-->
   <!-- <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" /> -->
   <link rel="icon" type="image/ico" href="favicon.ico" sizes="16x16" />
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script type="text/javascript" src="http://s3.amazonaws.com/codecademy-content/courses/hour-of-code/js/alphabet.js"></script>
+
 </head>
 
 <body>
-  <h1>Elena Izotova</h1>
+  <!--<h1>Elena Izotova</h1> -->
+
+    <div id=”content-desktop”>
+        <canvas id="myCanvas"><h1>Elena Izotova</h1></canvas>
+        <script type="text/javascript" src="References/bubbles.js"></script>
+        <script type="text/javascript" src="References/reference.js"></script>
+    </div>
+    <div id=”content-mobile”>
+        <h1>Elena Izotova</h1>
+    </div>
+  
+
+
   <section id="bio">
     <p>
-      Undergraduate student and research assistant at UMass Lowell, developing 
+      Undergraduate student and researcher at University of Massachusetts Lowell, developing 
       computer science related educational tools for K-12 young learners.
     </p>
     <nav class="menu" role="nav">
@@ -41,22 +57,37 @@
     <article>
         <h3>Projects</h3>
         <a href="https://learnmyr.org/" target="_blank">MYR.js:</a>
+        <img src="MYR_Chem.png" alt="MYR molecules" style="width:600px;" class = "center">
         <p>
-            Developer for MYR. <br/>
-            Prior front-end developer, currently working on the back-end. <br/>
-            MYR is a text-based educational tool used to teach students of all ages how to code. MYR utilizes 
-            the capabilities of Virtual Reality environments to support visual learners, in addition to 
-            fostering creativity in its users.
+            Front and back-end developer. <br/><br/>
+            <b>Abstract:</b><br/>
+            &nbsp; &nbsp; &nbsp; &nbsp; MYR is a browser-based, educational platform built to spark student interest
+             in computer science by allowing users to write code that generates three-dimensional, animated scenes in 
+             virtual reality. The interface consists of two primary components: (1) an integrated editor, 
+             which leverages the MYR API 
+            and the A-Frame entity-component-system, and (2) a real-time renderer that displays
+            the corresponding scene. The scenes, which vary in complexity,
+            are viewable using virtual reality headsets, smartphones, and any
+            device that supports a web browser. <br/>
+            &nbsp; &nbsp; &nbsp; &nbsp;By providing access to the specific domain of virtual reality to
+            students, the system aims to make computer science concepts tangible 
+            for novice programmers. The MYR development team conducted
+            pilot tests with middle school students in order to collect feedback
+            from this audience. The larger goal of the project is to develop MYR
+            as a research tool to gain insight into computing students’ success,
+            motivation, and confidence in learning computing. <br/><br/>
+            <a href="https://learnmyr.org/about/sigcse/myr-web-based-platform-vr.pdf" target="_blank">Read the full paper here.</a>
         </p>
+        
     </article>
     <article id="one">
       <h3>Contact Me</h3>
         <p>
             E-mail: <a href="mailto:elena@elenaizotova.com" target="_blank">elena@elenaizotova.com</a>
         </p>
-        <p>
+        <!---<p>
             Work Phone: <a href="tel:9782542799" target="_blank">(978) 254-2799</a>
-        </p>
+        </p>-->
     </article>
   </section>
   
