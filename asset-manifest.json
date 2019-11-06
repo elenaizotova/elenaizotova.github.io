@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9244bae7.chunk.css",
+    "main.js": "/static/js/main.3bdd3f4d.chunk.js",
+    "main.js.map": "/static/js/main.3bdd3f4d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ee25f581.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ee25f581.js.map",
+    "static/js/2.e6a6b5b4.chunk.js": "/static/js/2.e6a6b5b4.chunk.js",
+    "static/js/2.e6a6b5b4.chunk.js.map": "/static/js/2.e6a6b5b4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2a5b88c48d17d0006e035d6ca9c42c2a.js": "/precache-manifest.2a5b88c48d17d0006e035d6ca9c42c2a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.9244bae7.chunk.css.map": "/static/css/main.9244bae7.chunk.css.map",
+    "static/media/MYR_Chem.png": "/static/media/MYR_Chem.40165cbb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee25f581.js",
+    "static/js/2.e6a6b5b4.chunk.js",
+    "static/css/main.9244bae7.chunk.css",
+    "static/js/main.3bdd3f4d.chunk.js"
+  ]
+}
