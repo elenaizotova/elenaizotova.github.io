@@ -63,6 +63,13 @@ h4 {
   margin-bottom: 1em;
 }
 
+h5 {
+  font-family: 'Roboto Mono', monospace;
+  color: rgb(1, 87, 87);
+  /* margin-top: 1em; */
+  margin-bottom: 1em;
+}
+
 li {
   font-family: 'Roboto Mono', monospace;
   display: inline-block;
@@ -80,6 +87,7 @@ li {
   text-decoration: none;
 }
 #info p {
+  font-size: .8em;
   margin: 1em;
 }
 #info img {
@@ -88,12 +96,13 @@ li {
 .title {
   font-size: 1.5em;
 }
-.center {
+.right {
+  float: right;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  /* margin-left: auto;
+  margin-right: auto; */
   width: 50%;
-  margin-top: 1em;
+  /* margin-top: 1em; */
   margin-bottom: 1em;
 }
 canvas {
