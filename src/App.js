@@ -71,7 +71,7 @@ class MYR extends React.Component{
     return(
       <article>
           <a href="https://learnmyr.org/" rel="noopener noreferrer" target="_blank" class="title">MYR.js:</a>
-          <img src={require("./imgs/MYR_Chem.png")} alt="MYR molecules" style={{ width: "50%" }} class="right" />
+          <img src={require('./imgs/MYR_Chem.png').default} alt="MYR molecules" style={{ width: "50%" }} class="right" />
           <h5>Front and back-end developer
           <br /> Spring 2018 - Fall 2019</h5>
           <h5>Curriculum Creator and Educator
@@ -108,7 +108,7 @@ class SoarCS extends React.Component{
     return(
       <article>
           <a href="https://www.uml.edu/sciences/soarcs.aspx" rel="noopener noreferrer" target="_blank" class="title">SoarCS:</a>
-          <img src={require("./imgs/SoarCS_Logo.png")} alt="SoarCS Logo" style={{ width: "40%" }} class="right" />
+          <img src={require("./imgs/SoarCS_Logo.png").default} alt="SoarCS Logo" style={{ width: "40%" }} class="right" />
           <h5>Curriculum Creator, Lecturer
           <br />Summer 2019 & 2020</h5>
           
@@ -135,7 +135,7 @@ class CSConnections extends React.Component{
     return(
       <article>
           <a href="https://sites.google.com/view/csconnections/home" rel="noopener noreferrer" target="_blank" class="title">CS Connections:</a>
-          <img src={require("./imgs/CSConnections.png")} alt="CS Connections Logo" style={{ width: "20%" }} class="right" />
+          <img src={require("./imgs/CSConnections.png").default} alt="CS Connections Logo" style={{ width: "20%" }} class="right" />
           <h5> Project Guide
           <br />August 2018</h5>
           
@@ -181,3 +181,4 @@ class CSPathways extends React.Component{
 
 
 export default App;
+
