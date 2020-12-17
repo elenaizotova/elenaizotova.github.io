@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/elenaizotova.com/static/css/main.181f097e.chunk.css",
-    "main.js": "/elenaizotova.com/static/js/main.fdb4341f.chunk.js",
-    "main.js.map": "/elenaizotova.com/static/js/main.fdb4341f.chunk.js.map",
-    "runtime-main.js": "/elenaizotova.com/static/js/runtime-main.85f008eb.js",
-    "runtime-main.js.map": "/elenaizotova.com/static/js/runtime-main.85f008eb.js.map",
-    "static/js/2.a854a143.chunk.js": "/elenaizotova.com/static/js/2.a854a143.chunk.js",
-    "static/js/2.a854a143.chunk.js.map": "/elenaizotova.com/static/js/2.a854a143.chunk.js.map",
-    "static/js/3.54c67953.chunk.js": "/elenaizotova.com/static/js/3.54c67953.chunk.js",
-    "static/js/3.54c67953.chunk.js.map": "/elenaizotova.com/static/js/3.54c67953.chunk.js.map",
-    "index.html": "/elenaizotova.com/index.html",
-    "static/css/main.181f097e.chunk.css.map": "/elenaizotova.com/static/css/main.181f097e.chunk.css.map",
-    "static/js/2.a854a143.chunk.js.LICENSE.txt": "/elenaizotova.com/static/js/2.a854a143.chunk.js.LICENSE.txt",
-    "static/media/MYR_Chem.png": "/elenaizotova.com/static/media/MYR_Chem.5609363b.png"
+    "main.css": "/elenaizotova.github.io/static/css/main.181f097e.chunk.css",
+    "main.js": "/elenaizotova.github.io/static/js/main.fdb4341f.chunk.js",
+    "main.js.map": "/elenaizotova.github.io/static/js/main.fdb4341f.chunk.js.map",
+    "runtime-main.js": "/elenaizotova.github.io/static/js/runtime-main.fbf57d88.js",
+    "runtime-main.js.map": "/elenaizotova.github.io/static/js/runtime-main.fbf57d88.js.map",
+    "static/js/2.a854a143.chunk.js": "/elenaizotova.github.io/static/js/2.a854a143.chunk.js",
+    "static/js/2.a854a143.chunk.js.map": "/elenaizotova.github.io/static/js/2.a854a143.chunk.js.map",
+    "static/js/3.54c67953.chunk.js": "/elenaizotova.github.io/static/js/3.54c67953.chunk.js",
+    "static/js/3.54c67953.chunk.js.map": "/elenaizotova.github.io/static/js/3.54c67953.chunk.js.map",
+    "index.html": "/elenaizotova.github.io/index.html",
+    "static/css/main.181f097e.chunk.css.map": "/elenaizotova.github.io/static/css/main.181f097e.chunk.css.map",
+    "static/js/2.a854a143.chunk.js.LICENSE.txt": "/elenaizotova.github.io/static/js/2.a854a143.chunk.js.LICENSE.txt",
+    "static/media/MYR_Chem.png": "/elenaizotova.github.io/static/media/MYR_Chem.5609363b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.85f008eb.js",
+    "static/js/runtime-main.fbf57d88.js",
     "static/js/2.a854a143.chunk.js",
     "static/css/main.181f097e.chunk.css",
     "static/js/main.fdb4341f.chunk.js"
